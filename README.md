@@ -1,2 +1,1 @@
-# Sadakat
-Bir tek Davam vardir...
+# c++
